@@ -1,0 +1,9 @@
+go up
+go right
+go right
+go left
+go down
+go left
+go right
+go up
+quit

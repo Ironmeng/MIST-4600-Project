@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=peventName\ peventDescription\ pdamage\ poptions
+comment0.target=Event(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Event\n
+comment1.params=
+comment1.target=java.lang.String\ getEventName()
+comment2.params=
+comment2.target=java.lang.String\ getEventDescription()
+comment3.params=
+comment3.target=int\ getDamage()
+comment4.params=
+comment4.target=java.lang.String\ getOptions()
+numComments=5
